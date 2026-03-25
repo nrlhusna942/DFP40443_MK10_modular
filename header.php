@@ -1,4 +1,4 @@
-<?php $active_menu = $menu ?? 'utama'; ?>
+<?php $active_menu = $menu ?? 'pages_utama'; ?>
 <!DOCTYPE html>
 <html lang="ms">
 <head>

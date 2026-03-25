@@ -5,7 +5,7 @@ include "data_produk.php";
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
     $nama_pelanggan = $_POST['nama_pelanggan'] ?? "Pelanggan";
-    $tempahan_input = $_POST['tempahan'] ?? [];
+    $tempahan_input = $_POST['process_tempahan'] ?? [];
 
     $items = [];
     $total = 0;
