@@ -7,7 +7,7 @@
 <title>Biskut Klasik</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&family=Questrial&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style.css">
 
 </head>
 <body class="page-body">

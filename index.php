@@ -8,13 +8,13 @@ include "header.php";
 
 switch ($menu) {
     case 'tempah':
-        include "pages/tempah.php";
+        include "tempah.php";
         break;
     case 'invois':
-        include "pages/invois.php";
+        include "invois.php";
         break;
     default:
-        include "pages/utama.php";
+        include "utama.php";
 }
 
 include "footer.php";
